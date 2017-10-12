@@ -1,0 +1,70 @@
+.salmon {
+  fill: salmon
+}
+
+.bar { fill: rgb(115, 184, 185);
+}
+
+html{
+background-color: rgb(201, 245, 210);
+}
+
+.parent {
+  position: fixed;
+  background-color: rgba(37, 80, 245, 0.34);
+  padding: 0.5em;
+  color: white;
+  font-family: sans-serif;
+  width: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+
+}
+
+img {height: 3em;}
+
+.new {
+  margin-left: 1em;
+  width: 100%;
+  display: inline-flex;
+}
+
+.new h1 {
+  margin-left: 1em;
+}
+
+div {
+  margin-top: 10em;
+}
+
+
+h2 {
+  margin-top: 1em;
+  margin-left: 2em;
+  font-size: 1.2em;
+}
+
+.info {
+  vertical-align: middle;
+  position: fixed;
+  margin: 1em;
+  background-color: rgba(101, 246, 224, 0.35);
+  right: 8em;
+  top: 6em;
+  text-align: center;
+  width: 13em;
+  height: 10em;
+  padding-top: 1em;
+  color: darkgrey;
+}
+
+
+.text .tick text{
+  transform: rotate(90deg);
+  display: none;
+}
+
+.bar:hover {
+  fill: salmon;
+}
