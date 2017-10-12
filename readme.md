@@ -4,7 +4,7 @@ Customisation by : [@muise001](https://github.com/muise001)
 
 # Assessment 2
 
-Assessment 2 was een combinatie tussen verschillende huiswerkopdrachten. Als eerste de opdrachten waarbij we data in een al bestaande grafiek moesten zetten, en de opdracht waarbij we code moesten schoonmaken.
+Assessment 2 was een combinatie tussen verschillende huiswerkopdrachten. Als eerste de opdrachten waarbij we data in een al bestaande grafiek moesten zetten, en de opdracht waarbij we code moesten schoonmaken. [bekijk hem hier!](https://muise001.github.io/fe3-assessment-2/).
 
 ## Features
 * __Futuristic Animations__ - De "Futuristische animaties" heb ik gemaakt door simpelweg ```.transition()``` en ```.duration()``` toe te voegen __boven__ een aantal ```.attr()``` functies
